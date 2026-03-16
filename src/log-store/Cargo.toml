@@ -36,7 +36,7 @@ lazy_static.workspace = true
 object-store.workspace = true
 pin-project.workspace = true
 prometheus.workspace = true
-protobuf = { version = "2", features = ["bytes"] }
+protobuf = { version = "3", features = ["bytes"] }
 raft-engine.workspace = true
 rskafka.workspace = true
 serde.workspace = true
